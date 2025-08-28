@@ -1,20 +1,30 @@
-import { Text, View } from "react-native";
+import { Text, View, StyleSheet } from "react-native";
 
 export default function Logo() {
     return (
         <View>
-            <Text style={style.primeiro}>APLICATIVO DE SATISFAÇÃO</Text>
-            <Text style={style.secundario}>Avalie nosso atendimento!</Text>
+            <Text style={styles.primario}>Cartório de RCPN de Botelhos-MG</Text>
+            <Text style={styles.secundario}>Avalie nosso atendimento!</Text>
         </View>
     )
 }
 
-const style = StyleSheet.create({
-    primario:{
+const styles = StyleSheet.create({
+    primario: {
         fontFamily: 'Roboto-Variable',
+        fontSize: 20,
+        color: '#fff',
+        textAlign:'center',
+        marginTop: 20,
+        
 
     },
-    secundario:{
+    secundario: {
+        fontFamily: 'Roboto-Variable',
+        fontSize: 15,
+        color: '#fff',
+        textAlign:'center',
+        marginTop: 19,
 
     }
 })
