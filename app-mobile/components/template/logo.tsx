@@ -12,19 +12,19 @@ export default function Logo() {
 const styles = StyleSheet.create({
     primario: {
         fontFamily: 'Roboto-Variable',
-        fontSize: 20,
+        fontSize: 18, // Reduzido de 20
         color: '#fff',
         textAlign:'center',
-        marginTop: 20,
+        marginTop: 10, // Reduzido de 20
         
 
     },
     secundario: {
         fontFamily: 'Roboto-Variable',
-        fontSize: 15,
+        fontSize: 14, // Reduzido de 15
         color: '#fff',
         textAlign:'center',
-        marginTop: 19,
+        marginTop: 10, // Reduzido de 19
 
     }
 })

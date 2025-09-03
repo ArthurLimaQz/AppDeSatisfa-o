@@ -7,7 +7,7 @@ export interface PaginaProps {
 const background = require('@/assets/images/White Grey Abstract Organic Background Instagram Story.jpg')
 
 export default function Pagina(props: PaginaProps) {
-    return <view style={styles.container}>
+    return <View style={styles.container}>
         <ImageBackground
             source={background}
             resizeMode="cover"
@@ -16,7 +16,7 @@ export default function Pagina(props: PaginaProps) {
             >
             {props.children}
         </ImageBackground>
-    </view>
+    </View>
 }
 
 const styles = StyleSheet.create({
