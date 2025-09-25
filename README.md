@@ -40,6 +40,11 @@ npm start<br>
 📄 Estrutura do Projeto<br>
 O código-fonte do aplicativo está localizado na pasta app-mobile.
 
+
+testes<br>
+Deverá rodar ele diretamente no VsCode<br>
+npm run test
+
 👥 Colaboradores
 
 Arthur Lima de Queiroz, RA 1012023200044 <br>
