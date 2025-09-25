@@ -26,7 +26,7 @@ Navegue até o diretório do projeto:
 
 bash<br>
 Copiar código<br>
-cd AppDeSatisfa-o<br>
+cd AppDeSatisfa-o, app-mobile<br>
 Instale as dependências:<br>
 
 bash<br>
