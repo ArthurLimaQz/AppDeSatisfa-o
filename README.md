@@ -22,28 +22,27 @@ Permitir que cartórios monitorem a satisfação dos clientes de forma prática,
 1. Clone o repositório:
    ```bash
    git clone https://github.com/ArthurLimaQz/AppDeSatisfa-o.git
-Navegue até o diretório do projeto:
+Navegue até o diretório do projeto:<br>
 
-bash<br>
-Copiar código<br>
-cd AppDeSatisfa-o, app-mobile<br>
+
+- Abra o VScode<br>
+-  abra a pasta app-mobile<br>
 Instale as dependências:<br>
-
-bash<br>
-Copiar código<br>
 npm install<br>
-Inicie o aplicativo:<br>
 
-bash<br>
-Copiar código<br>
-npm start<br>
-📄 Estrutura do Projeto<br>
-O código-fonte do aplicativo está localizado na pasta app-mobile.
-
-
-testes<br>
+- testes:<br>
 Deverá rodar ele diretamente no VsCode<br>
 npm run test
+
+- Inicie o aplicativo:<br>
+Deve abrir a pasta no seu explorador de arquivo, deve iniciar o OPEN GIT BASH HERE;<br>
+Tem que estar na pasta app-mobile, caso ao contrário, não irá funcionar<br>
+npm run android<br>
+poderá iniciar pelo celular android, emulador ou pelo navegador.<br>
+📄 Estrutura do Projeto<br>
+O código-fonte do aplicativo está localizado na pasta app-mobile.<br>
+
+
 
 👥 Colaboradores
 
